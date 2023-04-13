@@ -113,6 +113,10 @@ main {
   font-size: 1.6rem;
 }
 
+.out-of {
+  color: hsl(224, 30%, 27%);
+}
+
 .reaction {
   background-color: hsla(0, 100%, 67%, 0.06);
 }
@@ -163,6 +167,19 @@ main {
   font-size: 1.6rem;
   margin-top: 2.9rem;
   color: hsl(224, 30%, 27%);
+}
+
+.btn {
+  display: inline-block;
+  width: 100%;
+  background: hsl(224, 30%, 27%);
+  color: #fff;
+  padding: 1.6rem 3.2rem;
+  border-radius: 9999px;
+  text-align: center;
+  font-size: 1.8rem;
+  text-decoration: none;
+  letter-spacing: 1.1px;
 }
 
 @media (max-width: 680px) {
