@@ -156,9 +156,9 @@ body {
 }
 
 .attribution {
-  position: absolute;
-  bottom: 5rem;
+  text-align: center;
   font-size: 1.6rem;
+  margin-top: 2.9rem;
   color: hsl(224, 30%, 27%);
 }
 
